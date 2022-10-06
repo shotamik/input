@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header1 {
+    background-color: #0a22f4;
+    height: 180px;
+    padding-top: 120px;
+    padding-left: 240px;
+    font-size: 32px;
+    color: #ffffff;
+    
+}
+
+.text {
+    color: #ffffff;
+    font-size: 16px;
+    width: 463px;
+    height: 99px;
+    margin-left: 240px;
+    /* padding-top: 30px; */
+}
+
+.div1 {
+    background-color: #0a22f4;
+}
+
+.map {
+    margin-left: 240px;
+    height: 197px;
+    width: 463px;
+}
+
+.div2 {
+    display: flex;
+}
+
+.call1 {
+    background-color: #ffffff;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-left: 240px;
+    margin-top: 20px;
+}
+
+.lmao {
+    background-color: pink;
+    height: 70px;
+
+}
+
+.lol {
+    background-color: #ffffff;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-left: 150px;
+}
+
+.num {
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.call2 {
+    background-color: #ffffff;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.em {
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+
+.fot {
+    background-color: #0a22f4;
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 22px;
+    padding-bottom: 30px;
+    padding-left: 240px;
+}
+
+.jojo {
+    background-color: #0a22f4;
+}
+
+.name {
+    display: block;
+    background-color: #0a22f4;
+    margin-bottom: 40px;
+    font-size: 16px;
+    width: 400px;
+}
+
+.lab {
+    background-color: #0a22f4;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.mess {
+    display: block;
+    background-color: #0a22f4;
+    margin-bottom: 40px;
+    font-size: 16px;
+    width: 400px;
+    height: 100px;
+}
+
+.labb {
+    background-color: #0a22f4;
+    padding-left: 100px;
+    padding-right: 253px;
+}
+
+.but {
+    margin-left: 270px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 36px;
+    padding-right: 36px;
+    color: black;
+}
+
+ .butto {
+    color: #171717;
+ }
+
+.fontss {
+    font-family: 'HelveticaNeue';
+}
